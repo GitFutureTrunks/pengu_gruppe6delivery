@@ -321,8 +321,8 @@ RegisterNetEvent('pengu_gruppe6delivery:RecieveDestinationOne', function(veh)
                                     disableMouse = false,
                                     disableCombat = true,
                                 }, {
-                                    animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                    anim = 'machinic_loop_mechandplayer',
+                                    animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                    anim = 'machinic_loop_mechandplayer', -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                 }, {}, {}, function()
                                     Pass = true
                                 end, function()
@@ -338,8 +338,8 @@ RegisterNetEvent('pengu_gruppe6delivery:RecieveDestinationOne', function(veh)
                                         car = true,
                                     },
                                     anim = {
-                                        dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                        clip = 'machinic_loop_mechandplayer'
+                                        dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                        clip = 'machinic_loop_mechandplayer' -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                     },
                                 }) then Pass = true end
                             end
@@ -384,8 +384,8 @@ RegisterNetEvent('pengu_gruppe6delivery:RecieveDestinationOne', function(veh)
                                 disableMouse = false,
                                 disableCombat = true,
                             }, {
-                                animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                anim = 'machinic_loop_mechandplayer',
+                                animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                anim = 'machinic_loop_mechandplayer', -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                             }, {}, {}, function()
                                 Pass = true
                             end, function()
@@ -401,8 +401,8 @@ RegisterNetEvent('pengu_gruppe6delivery:RecieveDestinationOne', function(veh)
                                     car = true,
                                 },
                                 anim = {
-                                    dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                    clip = 'machinic_loop_mechandplayer'
+                                    dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                    clip = 'machinic_loop_mechandplayer' -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                 },
                             }) then Pass = true end
                         end
@@ -450,8 +450,8 @@ RegisterNetEvent('pengu_gruppe6delivery:RecieveDestinationOne', function(veh)
                                         disableMouse = false,
                                         disableCombat = true,
                                     }, {
-                                        animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                        anim = 'machinic_loop_mechandplayer',
+                                        animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                        anim = 'machinic_loop_mechandplayer', -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                     }, {}, {}, function()
                                         Pass = true
                                     end, function()
@@ -467,8 +467,8 @@ RegisterNetEvent('pengu_gruppe6delivery:RecieveDestinationOne', function(veh)
                                             car = true,
                                         },
                                         anim = {
-                                            dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                            clip = 'machinic_loop_mechandplayer'
+                                            dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                            clip = 'machinic_loop_mechandplayer' -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                         },
                                     }) then Pass = true end
                                 end
@@ -595,8 +595,8 @@ CreateThread(function()
                                     disableMouse = false,
                                     disableCombat = true,
                                 }, {
-                                    animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                    anim = 'machinic_loop_mechandplayer',
+                                    animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                    anim = 'machinic_loop_mechandplayer', -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                 }, {}, {}, function()
                                     Pass = true
                                 end, function()
@@ -612,8 +612,8 @@ CreateThread(function()
                                         car = true,
                                     },
                                     anim = {
-                                        dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                        clip = 'machinic_loop_mechandplayer'
+                                        dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                        clip = 'machinic_loop_mechandplayer' -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                     },
                                 }) then Pass = true end
                             end
@@ -664,8 +664,8 @@ CreateThread(function()
                                     disableMouse = false,
                                     disableCombat = true,
                                 }, {
-                                    animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                    anim = 'machinic_loop_mechandplayer',
+                                    animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                    anim = 'machinic_loop_mechandplayer', -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                 }, {}, {}, function()
                                     Pass = true
                                 end, function()
@@ -681,8 +681,8 @@ CreateThread(function()
                                         car = true,
                                     },
                                     anim = {
-                                        dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                        clip = 'machinic_loop_mechandplayer'
+                                        dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                        clip = 'machinic_loop_mechandplayer' -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                     },
                                 }) then Pass = true end
                             end
@@ -735,8 +735,8 @@ CreateThread(function()
                                     disableMouse = false,
                                     disableCombat = true,
                                 }, {
-                                    animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                    anim = 'machinic_loop_mechandplayer',
+                                    animDict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                    anim = 'machinic_loop_mechandplayer', -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                 }, {}, {}, function()
                                     Pass = true
                                 end, function()
@@ -752,8 +752,8 @@ CreateThread(function()
                                         car = true,
                                     },
                                     anim = {
-                                        dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@',
-                                        clip = 'machinic_loop_mechandplayer'
+                                        dict = 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', -- Change the animation to this if you have the bag on a leveled surface ('anim@gangops@facility@servers@')
+                                        clip = 'machinic_loop_mechandplayer' -- Change the animation to this if you have the bag on a leveled surface ('hotwire')
                                     },
                                 }) then Pass = true end
                             end
